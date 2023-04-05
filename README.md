@@ -1,11 +1,11 @@
 <div>
-  <h1 align="center">Hi, welcome to my Github, I am <a href="https://www.linkedin.com/in/marco-domingos-239756171/"><i>Dorin Buraca</i></a> 😃️</h1>
+  <h1 align="center">Hi, welcome to my Github, I am <a href="https:/google.com"><i>Dorin Buraca</i></a> 😃️</h1>
   <p align="justify">I am a graduated software engineer, i have expirience developing mobile applications with Flutter, a little bett of native with Java or Kotlin and backend development with  PHP. I love learning, i'm currently increasing my knowllege on native </p>
   <ul dir="auto">
     <li><g-emoji class="g-emoji" alias="telescope" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f52d.png">🔭</g-emoji> I'm currently developing a Flutter library, just as <a href="https://pub.dev/packages/smart_calendar">this</a></li>
     <li><g-emoji class="g-emoji" alias="dancers" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f46f.png">👯</g-emoji> I’m looking to collaborate on any Flutter project</li>
     <li><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">💬</g-emoji> Ask me about  Flutter</li>
-    <li><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> How to reach me: <a href="https://github.com/Marco4763">Github</a>, <a href="https://stackoverflow.com/users/14421430/edivaldo-marco?tab=profile">StackOverflow</a>, <a href="https://www.upwork.com/freelancers/~01031d0f18f5c0b37b">Upwork</a>, <a href="https://www.linkedin.com/in/marco-domingos-239756171/" rel="nofollow">Linkedin</a> or <a href="mailto:marcoedomingos@gmail.com" rel="nofollow">Gmail</a></li>
+    <li><g-emoji class="g-emoji" alias="mailbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4eb.png">📫</g-emoji> How to reach me: <a href="https://github.com/Marco4763">Github</a>, <a href="https://stackoverflow.com/users/14421430/edivaldo-marco?tab=profile">StackOverflow</a>, <a href="https://www.upwork.com/freelancers/~01031d0f18f5c0b37b">Upwork</a>, <a href="https://www.linkedin.com/in/marco-domingos-239756171/" rel="nofollow">Linkedin</a> or <a href="mailto:buracant@gmail.com" rel="nofollow">Gmail</a></li>
 </ul>
 
 <div align="center">
